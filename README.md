@@ -5,3 +5,5 @@ A Binzel air-cooled welding torch is used as the tool for both robots. The simul
 The project was developed in ABB RobotStudio, using RobotWare version 6.08.01, and includes complete robot paths, tool configuration, work object setup, and external axis calibration.
 
 It has been packaged as a Pack and Go solution for easy sharing and deployment. The simulation can be run directly in RobotStudio, and all associated RAPID code is accessible for review and modification.
+
+![Alt text](weld.png)
